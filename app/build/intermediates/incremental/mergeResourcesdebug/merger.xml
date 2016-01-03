@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\ProjetoTCCLocal\trunk\android-flash-cards-master\app\src\main\res"><file name="flip1" path="C:\ProjetoTCCLocal\trunk\android-flash-cards-master\app\src\main\res\anim\flip1.xml" qualifiers="" type="anim"/><file name="flip2" path="C:\ProjetoTCCLocal\trunk\android-flash-cards-master\app\src\main\res\anim\flip2.xml" qualifiers="" type="anim"/><file name="actionbar_button_state" path="C:\ProjetoTCCLocal\trunk\android-flash-cards-master\app\src\main\res\drawable\actionbar_button_state.xml" qualifiers="" type="drawable"/><file name="actionbar_gradient" path="C:\ProjetoTCCLocal\trunk\android-flash-cards-master\app\src\main\res\drawable\actionbar_gradient.xml" qualifiers="" type="drawable"/><file name="ic_action_edit" path="C:\ProjetoTCCLocal\trunk\android-flash-cards-master\app\src\main\res\drawable-hdpi\ic_action_edit.png" qualifiers="hdpi" type="drawable"/><file name="ic_action_logo" path="C:\ProjetoTCCLocal\trunk\android-flash-cards-master\app\src\main\res\drawable-hdpi\ic_action_logo.png" qualifiers="hdpi" type="drawable"/><file name="ic_action_new" path="C:\ProjetoTCCLocal\trunk\android-flash-cards-master\app\src\main\res\drawable-hdpi\ic_action_new.png" qualifiers="hdpi" type="drawable"/><file name="ic_action_overflow" path="C:\ProjetoTCCLocal\trunk\android-flash-cards-master\app\src\main\res\drawable-hdpi\ic_action_overflow.png" qualifiers="hdpi" type="drawable"/><file name="ic_action_previous" path="C:\ProjetoTCCLocal\trunk\android-flash-cards-master\app\src\main\res\drawable-hdpi\ic_action_previous.png" qualifiers="hdpi" type="drawable"/><file name="ic_launcher" path="C:\ProjetoTCCLocal\trunk\android-flash-cards-master\app\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi" type="drawable"/><file name="ic_menu_zoom" path="C:\ProjetoTCCLocal\trunk\android-flash-cards-master\app\src\main\res\drawable-hdpi\ic_menu_zoom.png" qualifiers="hdpi" type="drawable"/><file name="ic_action_edit" path="C:\ProjetoTCCLocal\trunk\android-flash-cards-master\app\src\main\res\drawable-ldpi\ic_action_edit.png" qualifiers="ldpi" type="drawable"/><file name="ic_action_logo" path="C:\ProjetoTCCLocal\trunk\android-flash-cards-master\app\src\main\res\drawable-ldpi\ic_action_logo.png" qualifiers="ldpi" type="drawable"/><file name="ic_action_new" path="C:\ProjetoTCCLocal\trunk\android-flash-cards-master\app\src\main\res\drawable-ldpi\ic_action_new.png" qualifiers="ldpi" type="drawable"/><file name="ic_action_overflow" path="C:\ProjetoTCCLocal\trunk\android-flash-cards-master\app\src\main\res\drawable-ldpi\ic_action_overflow.png" qualifiers="ldpi" type="drawable"/><file name="ic_action_previous" path="C:\ProjetoTCCLocal\trunk\android-flash-cards-master\app\src\main\res\drawable-ldpi\ic_action_previous.png" qualifiers="ldpi" type="drawable"/><file name="ic_launcher" path="C:\ProjetoTCCLocal\trunk\android-flash-cards-master\app\src\main\res\drawable-ldpi\ic_launcher.png" qualifiers="ldpi" type="drawable"/><file name="ic_menu_zoom" path="C:\ProjetoTCCLocal\trunk\android-flash-cards-master\app\src\main\res\drawable-ldpi\ic_menu_zoom.png" qualifiers="ldpi" type="drawable"/><file name="ic_action_edit" path="C:\ProjetoTCCLocal\trunk\android-flash-cards-master\app\src\main\res\drawable-mdpi\ic_action_edit.png" qualifiers="mdpi" type="drawable"/><file name="ic_action_logo" path="C:\ProjetoTCCLocal\trunk\android-flash-cards-master\app\src\main\res\drawable-mdpi\ic_action_logo.png" qualifiers="mdpi" type="drawable"/><file name="ic_action_new" path="C:\ProjetoTCCLocal\trunk\android-flash-cards-master\app\src\main\res\drawable-mdpi\ic_action_new.png" qualifiers="mdpi" type="drawable"/><file name="ic_action_overflow" path="C:\ProjetoTCCLocal\trunk\android-flash-cards-master\app\src\main\res\drawable-mdpi\ic_action_overflow.png" qualifiers="mdpi" type="drawable"/><file name="ic_action_previous" path="C:\ProjetoTCCLocal\trunk\android-flash-cards-master\app\src\main\res\drawable-mdpi\ic_action_previous.png" qualifiers="mdpi" type="drawable"/><file name="ic_launcher" path="C:\ProjetoTCCLocal\trunk\android-flash-cards-master\app\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi" type="drawable"/><file name="ic_menu_zoom" path="C:\ProjetoTCCLocal\trunk\android-flash-cards-master\app\src\main\res\drawable-mdpi\ic_menu_zoom.png" qualifiers="mdpi" type="drawable"/><file name="ic_action_edit" path="C:\ProjetoTCCLocal\trunk\android-flash-cards-master\app\src\main\res\drawable-xhdpi\ic_action_edit.png" qualifiers="xhdpi" type="drawable"/><file name="ic_action_logo" path="C:\ProjetoTCCLocal\trunk\android-flash-cards-master\app\src\main\res\drawable-xhdpi\ic_action_logo.png" qualifiers="xhdpi" type="drawable"/><file name="ic_action_new" path="C:\ProjetoTCCLocal\trunk\android-flash-cards-master\app\src\main\res\drawable-xhdpi\ic_action_new.png" qualifiers="xhdpi" type="drawable"/><file name="ic_action_overflow" path="C:\ProjetoTCCLocal\trunk\android-flash-cards-master\app\src\main\res\drawable-xhdpi\ic_action_overflow.png" qualifiers="xhdpi" type="drawable"/><file name="ic_action_previous" path="C:\ProjetoTCCLocal\trunk\android-flash-cards-master\app\src\main\res\drawable-xhdpi\ic_action_previous.png" qualifiers="xhdpi" type="drawable"/><file name="ic_launcher" path="C:\ProjetoTCCLocal\trunk\android-flash-cards-master\app\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi" type="drawable"/><file name="ic_menu_zoom" path="C:\ProjetoTCCLocal\trunk\android-flash-cards-master\app\src\main\res\drawable-xhdpi\ic_menu_zoom.png" qualifiers="xhdpi" type="drawable"/><file name="about_fragment" path="C:\ProjetoTCCLocal\trunk\android-flash-cards-master\app\src\main\res\layout\about_fragment.xml" qualifiers="" type="layout"/><file name="actionbar_fragment" path="C:\ProjetoTCCLocal\trunk\android-flash-cards-master\app\src\main\res\layout\actionbar_fragment.xml" qualifiers="" type="layout"/><file name="add_card_fragment" path="C:\ProjetoTCCLocal\trunk\android-flash-cards-master\app\src\main\res\layout\add_card_fragment.xml" qualifiers="" type="layout"/><file name="card_fragment" path="C:\ProjetoTCCLocal\trunk\android-flash-cards-master\app\src\main\res\layout\card_fragment.xml" qualifiers="" type="layout"/><file name="dialog" path="C:\ProjetoTCCLocal\trunk\android-flash-cards-master\app\src\main\res\layout\dialog.xml" qualifiers="" type="layout"/><file name="help_dialog" path="C:\ProjetoTCCLocal\trunk\android-flash-cards-master\app\src\main\res\layout\help_dialog.xml" qualifiers="" type="layout"/><file name="main" path="C:\ProjetoTCCLocal\trunk\android-flash-cards-master\app\src\main\res\layout\main.xml" qualifiers="" type="layout"/><file name="setup_fragment" path="C:\ProjetoTCCLocal\trunk\android-flash-cards-master\app\src\main\res\layout\setup_fragment.xml" qualifiers="" type="layout"/><file path="C:\ProjetoTCCLocal\trunk\android-flash-cards-master\app\src\main\res\values\card_actions.xml" qualifiers=""><string-array name="card_actions">
+        <item>Zoom In</item>
+        <item>Zoom Out</item>
+        <item>Delete Card</item>
+        <item>Reshuffle</item>
+        <item>Card Info</item>
+        <item>Help</item>
+    </string-array></file><file path="C:\ProjetoTCCLocal\trunk\android-flash-cards-master\app\src\main\res\values\card_set_actions.xml" qualifiers=""><string-array name="card_set_actions">
+        <item>Setup</item>
+        <item>Flashcard Exchange</item>
+        <item>Send Feedback</item>
+        <item>About</item>
+        <item>Help</item>
+    </string-array></file><file path="C:\ProjetoTCCLocal\trunk\android-flash-cards-master\app\src\main\res\values\dimens.xml" qualifiers=""><dimen name="ListOverflowPaddingRight">10dp</dimen><dimen name="ActionBarSeparatorBottomPadding">0dp</dimen><dimen name="SetupLeftPadding">10dp</dimen><dimen name="ActionBarItemRightPadding">10dp</dimen><dimen name="AddWordTitleTopPadding">5dp</dimen><dimen name="SetupDividerPaddingTopBottom">10dp</dimen><dimen name="EditWordPaddingLeftRight">10dp</dimen><dimen name="ListOverflowWidth">150dp</dimen><dimen name="ActionBarHeight">50dp</dimen><dimen name="SetupFontSize">20sp</dimen><dimen name="DialogTitleBottomPadding">15dp</dimen><dimen name="SetupRightPadding">10dp</dimen><dimen name="AboutTopPadding">30dp</dimen><dimen name="ActionBarItemLeftPadding">5dp</dimen><dimen name="WordNumberBottomPadding">10dp</dimen><dimen name="ActionBarFontSize">18dp</dimen><dimen name="ActionBarSeparatorTopPadding">0dp</dimen><dimen name="ActionBarSeparatorRightPadding">15dp</dimen><dimen name="CardDefaultFontSize">30sp</dimen><dimen name="SetupTopPadding">16dp</dimen><dimen name="AddWordEditTextPadding">10dp</dimen><dimen name="SaveButtonTopPadding">20dp</dimen><dimen name="HelpDialogFontSize">20sp</dimen><dimen name="DialogLayoutPadding">10dp</dimen><dimen name="ActionBarItemRightBorderPadding">10dp</dimen><dimen name="AboutFontSize">25sp</dimen><dimen name="EditButtonsCenterPadding">20dp</dimen><dimen name="SetupDividerPaddingLeftRight">5dp</dimen><dimen name="EditWordPaddingTopBottom">70dp</dimen><dimen name="DialogFontSize">20sp</dimen></file><file path="C:\ProjetoTCCLocal\trunk\android-flash-cards-master\app\src\main\res\values\font_size_spinner.xml" qualifiers=""><string name="font_size_prompt">Card font size</string><string-array name="font_size_array">
+        <item>Small</item>
+        <item>Normal</item>
+        <item>Large</item>
+    </string-array></file><file path="C:\ProjetoTCCLocal\trunk\android-flash-cards-master\app\src\main\res\values\help.xml" qualifiers=""><string name="help_content_setup">
+        <![CDATA[
+        <p>In order to access Flashcard Exchange, you have to
+        create an account with that service.</p>
+        <p>Please see:<br />
+        <a href="http://www.flashcardexchange.com">www.flashcardexchange.com</a></p>
+        ]]>
+    </string><string name="help_content_default">
+        <![CDATA[
+        <p>Help content not defined yet.</p>
+        ]]>
+    </string><string name="help_content_add_card">
+        <![CDATA[
+        <p>Enter content for the card\'s front side. Then tap on the save icon, which flips the card
+        so that you can enter content for the card\'s back side. Then tap on the save icon, which adds the card.</p>
+        <p>You can continue adding cards, or click on the cancle button to return to the card set list.</p>
+        ]]>
+    </string><string name="help_content_card_set_list">
+        <![CDATA[
+        <h5>Add Card Set</h5>
+        <p>To create a new card set, please tap on the plus icon on the action bar.</p>
+        <h5>Delete Card Set</h5>
+		<p>Tap and hold on the list item that you want to delete, and the \"Delete\" menu will show up. 
+		Then tap on delete, and confirm the deletion dialog.</p>
+        <h5>Add Card</h5>
+        <p>Tap and hold on the list item to which you want to add a card, and the \"Add Card\" menu will show up.
+        Then tap on add.
+        </p>
+        ]]>
+    </string><string name="help_content_view_card">
+        <![CDATA[
+        <p>Tap anywhere on the card to switch between the front and backside 
+        of the card.</p>
+        <p>Change cards by swiping left and right.
+        ]]>
+    </string></file><file path="C:\ProjetoTCCLocal\trunk\android-flash-cards-master\app\src\main\res\values\setup_actions.xml" qualifiers=""><string-array name="setup_actions">
+        <item>Send Feedback</item>
+        <item>About</item>
+        <item>Help</item>
+    </string-array></file><file path="C:\ProjetoTCCLocal\trunk\android-flash-cards-master\app\src\main\res\values\strings.xml" qualifiers=""><string name="new_card_set_save_button">Save</string><string name="add_card_save_message_error">ERROR: Was not able to save card</string><string name="util_connectivity_error">Cannot connect to the Internet</string><string name="add_card_save_message_back_page">Enter back side text and save</string><string name="setup_show_sample_title">Show sample card sets</string><string name="button_new_card_set">New Card Set</string><string name="button_magnify">Magnify</string><string name="card_information">Card Set: %1$s</string><string name="new_card_set_message">Enter name:</string><string name="list_menu_add">Add Card</string><string name="delete_card_set_dialog_ok">Yes</string><string name="input_validation_warning">Invalid input</string><string name="menu_card_magnify">Zoom In</string><string name="delete_card">Deleted card</string><string name="help_dialog_title">Help</string><string name="add_card_save_message_success">Card saved</string><string name="image_divider">Divider</string><string name="list_meanu_delete">Delete</string><string name="list_no_card_sets_message">There are no card sets</string><string name="add_card_back_title">Back Side</string><string name="view_cards_fetch_remote_error">Was not able to get data from Flashcard Exchange</string><string name="image_previous">Previous</string><string name="view_cards_emtpy_set_message">Card set is empty</string><string name="setup_save_user_name_success">Saved User Name</string><string name="email_feedback_subject">Flash Cards: User Feedback</string><string name="menu_card_set_help">Help</string><string name="about_version">Version\n</string><string name="button_close">Close</string><string name="button_list">Show Card Sets</string><string name="setup_title">Flashcard Exchange</string><string name="external_data_message_error">Application error: Getting external data</string><string name="setup_save_user_name_failure">Was not able to verify user name</string><string name="delete_last_card_message">Deleted last card from card set:\n%1$s</string><string name="menu_card_set_setup">Setup</string><string name="button_edit">Edit</string><string name="util_flash_card_exchange_api_error">Flashcard Exchange Error</string><string name="input_validation_warning2">The card\'s front side cannot be empty</string><string name="new_card_set_dialog_message_warning1">Name already exists</string><string name="new_card_set_dialog_message_warning2">Invalid name</string><string name="menu_card_delete">Delete Card</string><string name="menu_card_information">Card Info</string><string name="setup_changed_font_size">Saved font size change</string><string name="new_card_set_cancel_button">Cancel</string><string name="button_backside">Backside</string><string name="button_save">Save</string><string name="about_title">Flash Cards</string><string name="delete_card_set_dialog_cancel">Cancel</string><string name="app_name">Flash Cards</string><string name="email_feedback_chooser">Send your email in:</string><string name="add_card_save_message_warning2">Invalid entry</string><string name="menu_card_set_external">Flashcard Exchange</string><string name="add_card_save_message_warning1">Invalid front page entry</string><string name="setup_user_name">Enter User Name</string><string name="setup_no_user_name_defined">Please provide your Flashcard Exchange user name.</string><string name="menu_card_set_about">About</string><string name="about_author">Thomas Amsler\ntamsler@gmail.com</string><string name="conversion">Converting Flash Cards …</string><string name="setup_save_user_name_error">Flashcard Exchange Error: User name is unknown</string><string name="delete_card_set_dialog_message">Are you sure you want to delete the card set?</string><string name="button_cancel">Cancel</string><string name="menu_card_reduce">Zoom Out</string><string name="button_overflow">Overflow</string><string name="add_card_front_title">Front Side</string></file><file path="C:\ProjetoTCCLocal\trunk\android-flash-cards-master\app\src\main\res\values\styles.xml" qualifiers=""><color name="dialog_background">#FFFFFF</color><color name="font_color">#000000</color><color name="font_color_action_bar">#FFFFFF</color><color name="list_overflow_background">#484848</color><color name="font_color_card_info">#C0C0C0</color><style name="Theme.WhiteBackground" parent="@android:style/Theme.Dialog">
+        <item name="android:background">@color/dialog_background</item>
+    </style></file><file path="C:\ProjetoTCCLocal\trunk\android-flash-cards-master\app\src\main\res\values\words.xml" qualifiers=""><string-array name="kindergarten_set1">
+        <item>all:All my toys.</item>
+        <item>am:I am happy.</item>
+        <item>are:We are good.</item>
+        <item>be:Be good.</item>
+        <item>but:We like no one but you.</item>
+        <item>came:I came home.</item>
+        <item>did: I did good.</item>
+        <item>do:I do work.</item>
+        <item>get:I get toys.</item>
+        <item>good:We did good.</item>
+        <item>have:I have fun.</item>
+        <item>like:I like animals.</item>
+        <item>must:We must go.</item>
+        <item>new:I like new toys.</item>
+        <item>no:There are no toys.</item>
+        <item>now:I want to play now.</item>
+        <item>on:I jump on my bed.</item>
+        <item>out:I pour water out of a bottle.</item>
+        <item>please:Can I have bread please?</item>
+        <item>pretty:I have pretty shoes.</item>
+        <item>saw:I saw a cat.</item>
+        <item>say:Say hello.</item>
+        <item>so:I am so tall.</item>
+        <item>soon:I will play soon.</item>
+        <item>under:I look under the table.</item>
+        <item>well:I do well in school.</item>
+        <item>went:I went to school.</item>
+        <item>what:What color do you like?</item>
+        <item>will:I will play now.</item>
+        <item>yes:Yes, I am coming.</item>
+    </string-array><string-array name="kindergarten_set2">
+        <item>a:A toy.</item>
+        <item>and:I like blue and pink.</item>
+        <item>are:We are happy.</item>
+        <item>for:I am looking for toys.</item>
+        <item>go:I go home.</item>
+        <item>have:I have fun.</item>
+        <item>he:He loves toys.</item>
+        <item>here:I am here."</item>
+        <item>I:I have fun.</item>
+        <item>is:She is happy.</item>
+        <item>like:I like toys.</item>
+        <item>my:I like my toys."</item>
+        <item>play:I play with cars.</item>
+        <item>said:You said it.</item>
+        <item>see:I see animals.</item>
+        <item>she:She loves toys.</item>
+        <item>the:The pink shoes.</item>
+        <item>to:I go to school.</item>
+    </string-array></file></source><source path="C:\ProjetoTCCLocal\trunk\android-flash-cards-master\app\build\generated\res\rs\debug"/><source path="C:\ProjetoTCCLocal\trunk\android-flash-cards-master\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug"><source path="C:\ProjetoTCCLocal\trunk\android-flash-cards-master\app\src\debug\res"/></dataSet><mergedItems/></merger>
